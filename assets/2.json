@@ -1,0 +1,19 @@
+{
+    "name": "Bridger-Teton National Forest",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4CEpZzmqfHYJV7h9asotNwe7cEBGGiYsy4y5fu1JW2eH",
+          "share": 100
+        }
+      ]
+    }
+  }

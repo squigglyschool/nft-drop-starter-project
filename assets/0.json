@@ -1,0 +1,19 @@
+{
+    "name": "Shenandoah National Park",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4CEpZzmqfHYJV7h9asotNwe7cEBGGiYsy4y5fu1JW2eH",
+          "share": 100
+        }
+      ]
+    }
+  }
